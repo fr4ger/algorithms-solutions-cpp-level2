@@ -11,6 +11,5 @@ Practice programming basics and problem solving using C++.
 - Loops
 - Arrays
 - Functions
-- Structres
 ## Status
 Learning in progress
